@@ -15,7 +15,6 @@ library(ggplot2)
 1. In the Flight Delays Case Study in Section 1.1,
 
     a. The data contain flight delays for two airlines, American Airlines and United Airlines.  Conduct a two-sided permutation test to see if the mean delay times between the two carriers are statistically significant.
-    LALALA
     
 $H_{0}: \mu_{AA} - \mu_{UA} = 0$
 $H_{a}: \mu_{AA} - \mu_{UA} \ne 0$
